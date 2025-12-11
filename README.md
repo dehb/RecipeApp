@@ -35,34 +35,23 @@ AppNavigator
 ├── Notifications Stack
 └── Profile Stack
 
-👤 Author
-Deborah Aderibigbe
-GitHub: https://github.com/dehb
-Email: dehb.iyanuoluwa@gmail.com
-Feel free to reach out for collaborations or job opportunities.
+### 👤 Author
+- Deborah Aderibigbe
+- GitHub: https://github.com/dehb
+- Email: dehb.iyanuoluwa@gmail.com
+- Feel free to reach out for collaborations or job opportunities.
 
 ## 📱 Screenshots
 <p align="center">
  <img width="250" alt="IMG_4075" src="https://github.com/user-attachments/assets/37eb2ed1-d81f-429f-9738-9fbb6267c233" />
-<img width="250" alt="IMG_4077" src="https://github.com/user-attachments/assets/c8926986-006c-4b3c-994f-af4e7806b35d" />
-<img width="250"  alt="IMG_4076" src="https://github.com/user-attachments/assets/bffb2adb-89ec-4855-ad6b-2ffc89e551fd" />
+<img width="250" alt="IMG_4077" src="https://github.com/user-attachments/assets/0d2d18de-c0a6-47c0-ac4c-a02e8bc493dd" />
+<img width="250"  alt="IMG_4076" src="https://github.com/user-attachments/assets/65b3b1aa-f5a4-4de0-9e78-349787625184" />
 </p>
-![WhatsApp Image 2025-12-11 at 11 13 12 (2)](https://github.com/user-attachments/assets/)
-
-![WhatsApp Image 2025-12-11 at 11 13 12 (1)](https://github.com/user-attachments/assets/0d2d18de-c0a6-47c0-ac4c-a02e8bc493dd)
-![WhatsApp Image 2025-12-11 at 11 13 12](https://github.com/user-attachments/assets/65b3b1aa-f5a4-4de0-9e78-349787625184)
-
-![WhatsApp Image 2025-12-11 at 11 13 11 (1)](https://github.com/user-attachments/assets/d34fdcba-5a24-487e-b89d-1b974baaedd7)
-
-
-![WhatsApp Image 2025-12-11 at 11 13 11](https://github.com/user-attachments/assets/2c282bd3-d2e0-43e6-9e29-7df6d33e5647)
-![WhatsApp Image 2025-12-11 at 11 13 11 (2)](https://github.com/user-attachments/assets/cb51ce24-f661-4cd3-90c1-54e5d1fdade4)
-
 
 <p align="center">
-<img width="250" alt="IMG_4078" src="https://github.com/user-attachments/assets/38859441-2a04-4a1c-bffc-a27dd43e76a2" />
-<img width="250" alt="IMG_4073" src="https://github.com/user-attachments/assets/b7607518-2e21-4bb3-91e3-5a6156850a7f" />
-<img width="250"  alt="IMG_4074" src="https://github.com/user-attachments/assets/9fe667d6-3a0c-4a51-919a-64aab8b3d7f7" />
+<img width="250" alt="IMG_4078" src="https://github.com/user-attachments/assets/d34fdcba-5a24-487e-b89d-1b974baaedd7" />
+<img width="250" alt="IMG_4073" src="https://github.com/user-attachments/assets/2c282bd3-d2e0-43e6-9e29-7df6d33e5647" />
+<img width="250"  alt="IMG_4074" src="https://github.com/user-attachments/assets/cb51ce24-f661-4cd3-90c1-54e5d1fdade4" />
 </p>
 
 
@@ -74,23 +63,23 @@ Feel free to reach out for collaborations or job opportunities.
 - Header
 
 ### ⚡ Performance Considerations
-Virtualized lists with FlatList
-Minimal inline styles; separated constants for colors, spacing, typography
+- Virtualized lists with FlatList
+- Minimal inline styles; separated constants for colors, spacing, typography
 
 
 ## 🛠️ Tech Stack
-React Native – UI building blocks
-Expo – Managed workflow
-React Navigation – Tab navigation + stacks
-JavaScript – Core implementation
-StyleSheet API – Component-scoped styling
+- React Native – UI building blocks
+- Expo – Managed workflow
+- React Navigation – Tab navigation + stacks
+- JavaScript – Core implementation
+- StyleSheet API – Component-scoped styling
 
 ## ▶️ Getting Started
-git clone https://github.com/dehb/RecipeApp.git
-cd RecipeApp
-npm install
-expo start
-Scan the QR code with Expo Go on your device.
+- git clone https://github.com/dehb/RecipeApp.git
+- cd RecipeApp
+- npm install
+- expo start
+- Scan the QR code with Expo Go on your device.
 
 ## 📌 Notes
 This project is UI-only, built for practice and portfolio purposes.
