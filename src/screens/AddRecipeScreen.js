@@ -7,7 +7,6 @@ import {
   ScrollView,
   TouchableOpacity,
   TextInput,
-  SafeAreaView,
   Alert,
   Platform,
 } from 'react-native';
@@ -15,6 +14,8 @@ import { Ionicons } from '@expo/vector-icons';
 import { COLORS } from '../constants/colors';
 import { SPACING, BORDER_RADIUS } from '../constants/spacing';
 import { TYPOGRAPHY } from '../constants/typography';
+import { SafeAreaView } from "react-native-safe-area-context";
+
 
 const AddRecipeScreen = ({ navigation }) => {
   const [recipeName, setRecipeName] = useState('');
