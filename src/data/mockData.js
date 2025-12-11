@@ -30,7 +30,7 @@ export const AFRICAN_CATEGORIES = [
 export const POPULAR_RECIPES = [
   {
     id: '1',
-    title: 'Jollof Rice',
+    title: 'Semo and Egusi Soup',
     image: 'https://images.unsplash.com/photo-1604329760661-e71dc83f8f26?w=400',
     time: '45 min',
     difficulty: 'Medium',
@@ -40,7 +40,7 @@ export const POPULAR_RECIPES = [
   },
   {
     id: '2',
-    title: 'Egusi Soup',
+    title: 'Banga Soup',
     image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a41?w=400',
     time: '60 min',
     difficulty: 'Medium',
@@ -60,7 +60,7 @@ export const POPULAR_RECIPES = [
   },
   {
     id: '4',
-    title: 'Pounded Yam',
+    title: 'Chops and Grills',
     image: 'https://images.unsplash.com/photo-1582169296194-e4d644c48063?w=400',
     time: '50 min',
     difficulty: 'Hard',
@@ -108,13 +108,13 @@ export const SEARCH_RESULTS = [
   {
     id: '3',
     title: 'Gizdodo',
-    image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a41?w=400',
+    image: 'https://images.unsplash.com/photo-1626200419199-391ae4be7a43?w=400',
     time: '40 min',
     calories: '350',
   },
   {
     id: '4',
-    title: 'Chin Chin',
+    title: 'Cookies',
     image: 'https://images.unsplash.com/photo-1558961363-fa8fdf82db35?w=400',
     time: '30 min',
     calories: '180',
@@ -272,5 +272,35 @@ export const AFRICAN_RECIPES = [
     authorImage: 'https://i.pravatar.cc/100?img=74',
     category: 'Dinner',
     description: 'Palm nut soup from Southern Nigeria, rich and flavorful',
+  },
+];
+
+export const NOTIFICATIONS = [
+  {
+    id: '1',
+    type: 'like',
+    user: 'Dayo Fabiyi',
+    userImage: 'https://i.pravatar.cc/100?img=11',
+    message: 'liked your recipe "Spaghetti Carbonara"',
+    time: '2 hours ago',
+    read: false,
+  },
+  {
+    id: '2',
+    type: 'comment',
+    user: 'Banke Gold',
+    userImage: 'https://i.pravatar.cc/100?img=24',
+    message: 'commented on your recipe',
+    time: '5 hours ago',
+    read: false,
+  },
+  {
+    id: '3',
+    type: 'follow',
+    user: 'Bade Johnson',
+    userImage: 'https://i.pravatar.cc/100?img=33',
+    message: 'started following you',
+    time: '1 day ago',
+    read: true,
   },
 ];
